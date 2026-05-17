@@ -4,7 +4,7 @@ Frontend Developer focused on conversion-driven web experiences.
 
 I build websites where UI, copy, performance and business goals work together. My work is usually close to real brands: landing pages, editorial interfaces, WhatsApp conversion flows, dashboards and visual systems that need to feel intentional from the first screen.
 
-Currently shaping **Nadia Web / Trama Studio**: digital presence for businesses that need more than a pretty landing page.
+Currently shaping **Trama Studio**: digital presence for businesses that need more than a pretty landing page.
 
 ---
 
